@@ -235,7 +235,8 @@ footer img {
 */
 
 .container-manifesta {
-    padding: 10px;
+    padding: 50px;
+    text-align: justify;
     color: white;
     margin: 20px;
 }
@@ -476,4 +477,5 @@ h3 {
 .div-oncas {
     width: 100%;
     background-color: brown;
+
 }
