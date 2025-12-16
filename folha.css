@@ -120,6 +120,8 @@ footer {
     align-items: center;
     color: white;
     margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
     padding: 30px;
     border: solid #80895e 0.5px;
     border-radius: 8px;
@@ -479,3 +481,4 @@ h3 {
     background-color: brown;
 
 }
+
