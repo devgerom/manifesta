@@ -262,7 +262,8 @@ h2 {
 }
 .card-obra {
     padding: 15px;
-    margin-bottom: 30px;
+    margin-top: 20px
+    margin-bottom: 20px;
     background: white;
     border-radius: 16px;
     overflow: hidden;
@@ -452,5 +453,6 @@ h2 {
     width: 100%;
     background-color: brown;
 }
+
 
 
