@@ -198,7 +198,7 @@ footer img {
     display: flex;
     flex-direction: row;
     
-    justify-content: space-between;
+    justify-content: space-around;
 
     color: white;
 
@@ -453,6 +453,7 @@ h2 {
     width: 100%;
     background-color: brown;
 }
+
 
 
 
