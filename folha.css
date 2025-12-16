@@ -264,10 +264,10 @@ h2 {
 
 .galeria {
     display: flex;
-    gap: 30px;
-
-    flex-direction: column;
-
+    flex-wrap: wrap;
+    gap: 2rem;
+    padding: 2rem;
+    justify-content: center;
     align-items: center;
     width: 100%;
 
@@ -281,7 +281,7 @@ h3 {
 .card-obra {
     width: 21rem;
     gap: 30px;
-    padding: 15px;
+    padding: 20px;
     margin-bottom: 30px;
     margin-top: 30px;
     background: white;
@@ -474,3 +474,4 @@ h3 {
     background-color: brown;
 
 }
+
